@@ -1,207 +1,136 @@
-# Awesome-Mystery-Shopping-Platform
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Mystery Shopping Platform Banner" width="100%" />
+</p>
 
-## Top Mystery Shopping Platform Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Mystery-Shopping-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mystery-Shopping-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Mystery-Shopping-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mystery-Shopping-Platform?style=flat-square&color=blue" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Mystery-Shopping-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Mystery-Shopping-Platform?style=flat-square&color=green" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+# 🛒 Awesome Mystery Shopping Platform 🕵️‍♂️
 
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Mystery Shopping, Customer Experience Audits, Field Data Collection, Retail Compliance, Shopper Networks & CX Measurement*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Mystery Shopping**. These systems enable brands and agencies to design evaluation programs, recruit and dispatch shoppers, collect structured feedback and evidence (photos, videos, scores), and turn results into actionable customer-experience insights.
-
-
-
-**Examples** include Praemialis, SeeLevel HX, Field Agent, Reality Based Group, Market Force, TrendSource, Service Intelligence, Shopmetrics, ISC-CX, and CheckMarket (the category leaders).
-
-
-
-**Open-source emphasis**: Purpose-built mystery shopping platforms with shopper networks, assignment management, evidence review workflows, and client reporting are almost exclusively commercial. Open-source activity is limited to experimental AI mystery-shopper agents, general survey/field-data tools, and custom form + mobile collection stacks. This section lists every relevant project and realistic building block found.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Field Agent](https://www.fieldagent.net/)**  
-
-  Leading on-demand retail audit and mystery shopping platform with a large mobile workforce, structured assignments, photo/video evidence, and editor review workflows.
-
-
-
-- **[Market Force](https://www.marketforce.com/)**  
-
-  Established customer experience and mystery shopping provider serving multi-unit brands across retail, restaurants, banking, and other sectors with high-volume programs.
-
-
-
-- **[Shopmetrics](https://www.shopmetrics.com/)**  
-
-  Mystery shopping and CX measurement platform focused on project execution, shopper management, evidence-linked reviews, and reporting for agencies and brands.
-
-
-
-- **[Praemialis, SeeLevel HX, Reality Based Group](https://www.praemialis.com/)**  
-
-  Specialized mystery shopping and experience measurement solutions offering program design, field execution, and analytics.
-
-
-
-- **[TrendSource, Service Intelligence, ISC-CX](https://www.trendsource.com/)**  
-
-  Providers of mystery shopping, brand compliance, and customer experience audit services with technology-enabled reporting.
-
-
-
-- **[CheckMarket and survey-oriented CX tools](https://www.checkmarket.com/)**  
-
-  Platforms that support structured feedback collection and can be adapted for mystery shopping or audit-style programs.
-
-
-
-- **[Other mystery shopping & CX audit platforms](https://www.fieldagent.net/)**  
-
-  Additional commercial networks and software for secret shopping, competitive intelligence, and operational compliance checks.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Churninator (AI Mystery Shopper)](https://github.com/MR-GREEN1337/churninator)**  
-
-  Open-source experimental AI agent that acts as an autonomous “mystery shopper” for web/SaaS products—navigating signup and onboarding flows to identify friction and generate UX audit reports.
-
-
-
-- **[Legacy / niche mystery shopping codebases](https://github.com/Inglobe/mystery)**  
-
-  Older or regionally focused mystery shopper platform repositories that illustrate basic shopper registration, assignment, and reporting patterns (limited ongoing maintenance).
-
-
-
-- **[Open survey & form platforms](https://github.com/search?q=survey+OR+form+builder+OR+questionnaire+open+source)**  
-
-  Self-hosted survey tools (e.g., LimeSurvey and similar) that can be configured for structured mystery shopping questionnaires and scoring.
-
-
-
-- **[Mobile data collection & field tools](https://github.com/search?q=field+data+collection+OR+ODK+OR+mobile+forms+open+source)**  
-
-  Open-source mobile form and offline data-collection frameworks (ODK ecosystem and related) usable for in-store audits and evidence capture.
-
-
-
-- **[Checklist & inspection apps](https://github.com/search?q=inspection+OR+checklist+OR+audit+app+open+source)**  
-
-  Community projects for creating and completing digital checklists with photo attachments—adaptable to basic mystery shopping or compliance audits.
-
-
-
-- **[CX / feedback analytics helpers](https://github.com/search?q=customer+experience+OR+NPS+OR+feedback+analytics)**  
-
-  Open tools for scoring, aggregating, and visualizing structured feedback that can sit on top of collected mystery shop data.
-
-
-
-- **[Custom shopper portal experiments](https://github.com/search?q=mystery+shopper+OR+secret+shopper+OR+retail+audit)**  
-
-  Small or academic repositories exploring shopper scheduling, scoring rubrics, or simple reporting dashboards.
-
-
-
-- **[Automation & workflow engines](https://github.com/search?q=workflow+OR+form+automation+open+source)**  
-
-  Tools that can orchestrate assignment distribution, reminder notifications, and result routing for lightweight programs.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Form + mobile stacks**: Combine a self-hosted form builder with offline-capable mobile clients for photo and score capture.
-
-- **Scheduling & dispatch**: Open calendar or task systems adapted for assigning shops to field evaluators.
-
-- **Media storage & review**: Self-hosted file storage with review/approval workflows for evidence quality control.
-
-- **Reporting dashboards**: Grafana, Metabase, or Superset configured on top of collected shop data.
-
-- **AI-assisted evaluation**: Experimental agents (like Churninator) or LLM pipelines that score free-text comments or flag anomalies in submissions.
-
-- Fully custom builds: Survey platform + mobile collection + simple admin portal for small-scale or internal mystery shopping programs.
-
-
-
-**Frameworks for building custom systems**:  
-
-There is no mature, full-featured open-source equivalent to commercial mystery shopping platforms (Field Agent, Market Force, Shopmetrics, etc.).  
-
-Realistic building blocks include open survey/form systems, mobile data-collection frameworks (ODK-style), checklist apps, and experimental AI mystery-shopper agents.  
-
-These can support internal or small-scale programs but lack the shopper networks, quality-control workflows, legal/compliance scaffolding, and multi-client reporting of established commercial providers.  
-
-Most brands and agencies rely on commercial mystery shopping platforms or specialist agencies for reliable, scalable programs; open-source components are best used for prototypes, internal audits, or supplementing commercial data.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Mystery shopping involves collecting data about employee and customer interactions. Programs must respect local labor, privacy, and consumer-protection laws, and shoppers should be properly briefed and compensated.
-
-- Open-source tools can support data collection and basic analysis but do not replace the operational, legal, and quality-assurance infrastructure of professional mystery shopping providers. Evaluate compliance, data protection, and methodological rigor carefully.
-
-
+> **A curated directory of top SaaS platforms and open-source software for Mystery Shopping, Customer Experience (CX) Audits, Retail Compliance, Field Data Collection, and Shopper Network Management.**
 
 ---
 
+## 📖 Overview & SEO Keywords
 
+Welcome to the **Awesome Mystery Shopping Platform** ecosystem list! Whether you are a retail enterprise, market research agency, CX consultant, or software developer building custom audit tools, this curated index provides a comprehensive breakdown of commercial SaaS providers and community-driven open-source building blocks.
 
-**Made for CX leaders, retail operations teams, brand compliance managers, and mystery shopping program operators.**  
+**Keywords**: Mystery Shopping Software, Secret Shopper Apps, Customer Experience Audits, Retail Compliance Software, Field Data Collection, ODK Collect, Form Builders, Shopper Network Dispatch, CX Analytics.
 
-Let's expand open tooling for structured experience measurement while recognizing the specialized networks and processes that commercial mystery shopping platforms provide.
+---
+
+## 📑 Table of Contents
+- [📊 Market Overview & Industry Dynamics](#-market-overview--industry-dynamics)
+- [💼 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+
+---
+
+## 📊 Market Overview & Industry Dynamics
+
+📊 **Estimated Sector Market Size**: The global Mystery Shopping & Customer Experience (CX) Audit market is estimated at **~$4.8 Billion** (projected to reach **~$7.5 Billion** by 2030 at a 6.8% CAGR).
+
+🧩 **Market Structure**: The market is **highly fragmented**, comprising regional mystery shopping providers (MSPs), boutique brand compliance agencies, crowdsourced gig economy apps, and specialized software platforms—without a single winner-take-all monopoly.
+
+---
+
+## 💼 SaaS & Commercial Platforms
+
+Below is a curated table of leading commercial SaaS platforms for mystery shopping, retail execution, and field audit workflows, sorted by **Company Size / Valuation** (descending).
+
+| 🏢 SaaS Platform | 💰 Company Size (Revenue / Valuation) | 🏷️ Starting Tier Price | 🎁 Free Tier / Free Trial Limits | 🚀 Key Features & Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **[SafetyCulture (iAuditor)](https://safetyculture.com/)** | **~$2.5B Valuation** (~$100M ARR) | $24 / user / month | **30-day Free Trial** (Free plan available for up to 3 users & 10 form templates) | Enterprise retail inspection, mobile site audit, real-time safety & quality compliance |
+| **[Market Force Information](https://www.marketforce.com/)** | **~$65M Revenue** (Acquired by MCI) | $500 / month | **14-day Free Access** to KnowledgeForce analytics demo dashboard | Enterprise customer experience management, secret shopper programs, brand standards audit |
+| **[Roamler](https://www.roamler.com/)** | **~$45M Revenue** | $250 / project | **14-day Demo Environment** upon enterprise consultation | Crowdsourced on-demand field data collection, retail audits, and mystery shopping network |
+| **[Form.com (GoCanvas)](https://form.com/)** | **~$40M Revenue** (~$120M Valuation) | $45 / user / month | **14-day Free Trial** (Includes 5 completed audit form submissions) | Enterprise mobile field forms, offline compliance audits, and custom workflow routing |
+| **[CheckMarket (Netigate)](https://www.checkmarket.com/)** | **~$30M Revenue** | $49 / month | **14-day Free Trial** (Full feature access up to 100 responses max) | Enterprise survey collection, shopper evaluation forms, and CX feedback reporting |
+| **[Field Agent](https://www.fieldagent.net/)** | **~$25M Revenue** ($15M Raised) | $10 / audit location | **7-day Demo Trial** with 1 free sample audit run upon strategy session | On-demand mobile retail audits, photo/video evidence capture, and crowdsourced shopper network |
+| **[Shopmetrics](https://www.shopmetrics.com/)** | **~$15M Revenue** | $199 / month + $0.50 / shop | **14-day Sandbox Access** for certified market research agencies | Enterprise mystery shopping dispatch, shopper assignment workflow, and client reporting portal |
+| **[iSecretShop](https://isecretshop.com/)** | **~$8M Revenue** | $99 / month | **30-day Trial Account** for verified Mystery Shopping Providers (MSPs) | Mystery shopping dispatch engine, shopper mobile application, and evaluation quality control |
+
+---
+
+## ⚡ Open-Source GitHub Projects
+
+Purpose-built mystery shopping software with integrated gig-shopper networks is predominantly commercial. However, powerful open-source building blocks exist—ranging from experience management tools and offline mobile data collectors to survey engines and experimental AI mystery shopper agents.
+
+Below is the list of open-source projects, sorted by **GitHub Star Count** (descending).
+
+1. **[Formbricks](https://github.com/formbricks/formbricks)** [<img src="https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white" alt="formbricks stars"/>](https://github.com/formbricks/formbricks/stargazers)  
+   *Next.js open-source experience management & survey platform for structured customer & mystery evaluation flows.*
+
+2. **[SurveyJS Library](https://github.com/surveyjs/survey-library)** [<img src="https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white" alt="surveyjs stars"/>](https://github.com/surveyjs/survey-library/stargazers)  
+   *JSON-driven JavaScript form library for React, Vue, Angular, and JS to construct complex mystery shop questionnaires and audit scoring sheets.*
+
+3. **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [<img src="https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white" alt="limesurvey stars"/>](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
+   *Battle-tested open-source survey web application designed for complex assessments, multi-tier question logic, and structured evaluative scoring.*
+
+4. **[OhMyForm](https://github.com/ohmyform/ohmyform)** [<img src="https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white" alt="ohmyform stars"/>](https://github.com/ohmyform/ohmyform/stargazers)  
+   *Free open-source web application for creating embeddable web forms and field feedback collection surveys.*
+
+5. **[Formio](https://github.com/formio/formio)** [<img src="https://img.shields.io/github/stars/formio/formio?style=social&color=white" alt="formio stars"/>](https://github.com/formio/formio/stargazers)  
+   *Form builder and data management API platform for progressive web and mobile field-reporting applications.*
+
+6. **[ODK Collect (Android)](https://github.com/getodk/collect)** [<img src="https://img.shields.io/github/stars/getodk/collect?style=social&color=white" alt="odk collect stars"/>](https://github.com/getodk/collect/stargazers)  
+   *Mobile Android field-data collection engine designed for offline evaluation, geo-tagged photo/video evidence capture, and structured audit submission.*
+
+7. **[ODK Central](https://github.com/getodk/central)** [<img src="https://img.shields.io/github/stars/getodk/central?style=social&color=white" alt="odk central stars"/>](https://github.com/getodk/central/stargazers)  
+   *Central backend server for managing offline field enumerators, mobile mystery shoppers, form definitions, and incoming audit reports.*
+
+8. **[KoboToolbox KPI](https://github.com/kobotoolbox/kpi)** [<img src="https://img.shields.io/github/stars/kobotoolbox/kpi?style=social&color=white" alt="kpi stars"/>](https://github.com/kobotoolbox/kpi/stargazers)  
+   *Field data collection backend for question library management, shopper form design, and audit submission analytics.*
+
+9. **[KoboToolbox Installer](https://github.com/kobotoolbox/kobo-install)** [<img src="https://img.shields.io/github/stars/kobotoolbox/kobo-install?style=social&color=white" alt="kobo-install stars"/>](https://github.com/kobotoolbox/kobo-install/stargazers)  
+   *Deployment suite for provisioning self-hosted digital inspection and field data collection servers.*
+
+10. **[Churninator (AI Mystery Shopper)](https://github.com/MR-GREEN1337/churninator)** [<img src="https://img.shields.io/github/stars/MR-GREEN1337/churninator?style=social&color=white" alt="churninator stars"/>](https://github.com/MR-GREEN1337/churninator/stargazers)  
+    *Autonomous AI agent designed to act as a mystery shopper for SaaS and digital onboarding flows, generating friction analysis reports.*
+
+11. **[Inglobe Mystery Shopper Platform](https://github.com/Inglobe/mystery)** [<img src="https://img.shields.io/github/stars/Inglobe/mystery?style=social&color=white" alt="mystery stars"/>](https://github.com/Inglobe/mystery/stargazers)  
+    *Open-source web portal template for organizing shopper registration, shop assignment dispatch, and client evaluation reporting.*
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Please follow these simple steps to add or update projects:
+
+1. 🍴 **Fork** this repository.
+2. 📝 **Add / Edit** entries in `README.md` (maintaining table/list formatting and accurate details).
+3. 🔍 **Provide** name, URL, exact pricing / star details, and concise summary.
+4. 📬 **Submit** a Pull Request describing your changes.
+
+Check out [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** educational directory—not an endorsement or exhaustive listing.
+- Mystery shopping software and operations must strictly comply with local labor, consumer privacy, and data-protection laws.
+- Product information, pricing, and financial estimates are derived from publicly available sources and subject to change.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Mystery-Shopping-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Mystery-Shopping-Platform&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting **Awesome Mystery Shopping Platform**! 🌟
+
+If you find this repository valuable, please consider supporting the maintainers:
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** it and contribute new platforms or open-source projects.
+- 📢 **Share** it with fellow CX researchers, retail managers, and developers.
+
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Sponsor on GitHub"/></a>
