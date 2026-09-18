@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Mystery-Shopping-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mystery-Shopping-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Mystery-Shopping-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mystery-Shopping-Platform?style=flat-square&color=blue" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Mystery-Shopping-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Mystery-Shopping-Platform?style=flat-square&color=green" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Mystery-Shopping-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mystery-Shopping-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Mystery-Shopping-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mystery-Shopping-Platform?style=flat-square&color=blue" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Mystery-Shopping-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Mystery-Shopping-Platform?style=flat-square&color=green" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 # 🛒 Awesome Mystery Shopping Platform 🕵️‍♂️
@@ -60,7 +60,7 @@ Below is a curated table of leading commercial SaaS platforms for mystery shoppi
 
 Purpose-built mystery shopping software with integrated gig-shopper networks is predominantly commercial. However, powerful open-source building blocks exist—ranging from experience management tools and offline mobile data collectors to survey engines and experimental AI mystery shopper agents.
 
-Below is the list of open-source projects, sorted by **GitHub Star Count** (descending).
+Below is the list of open-source projects, sorted by **GitHub Stars_Count** (descending).
 
 1. **[Formbricks](https://github.com/formbricks/formbricks)** [<img src="https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white" alt="formbricks stars"/>](https://github.com/formbricks/formbricks/stargazers)  
    *Next.js open-source experience management & survey platform for structured customer & mystery evaluation flows.*
